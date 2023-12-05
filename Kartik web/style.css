@@ -1,0 +1,32 @@
+div{
+  display: flex;
+  font-size: 15px;
+  color: rgb(92, 100, 105);
+}
+h1{
+  height: 50px;
+  width: 400px;
+  background-color : rgb(60, 66, 77);
+  display:block;
+  text-align: center;
+  
+  
+}
+.firstname{
+  width:40px;
+  display: inline-block;
+}
+.lastname{
+  display: inline-block;
+  text-size-adjust: 10px;
+}
+.timing{
+  background-color: rgb(238, 240, 197)
+}
+button{
+  color: white;
+  background-color: rgb(29, 48, 36);
+}
+div :active{
+  background-color: yellow;
+}
